@@ -14,8 +14,8 @@
 
 | Действие | Ссылка |
 | -------- | ------ |
-| 💬 **Войти в чат** | [@ChatPeak_Bot](https://t.me/ChatPeak_Bot) → ** Нажимай /Start** |
-| 🌾 **Создать своего бота** | [@PeakFatherBot](https://t.me/PeakFatherBot) → конструктор фермы |
+| 💬 **Войти в чат** | [@ChatPeak_Bot](https://t.me/ChatPeak_Bot) → **Нажимай /Start** |
+| 🌾 **Создать своего бота** | [@PeakFatherBot](https://t.me/PeakFatherBot) → **Конструктор своего бота** |
 
 ---
 
