@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/ChatPeak_Bot"><img src="https://img.shields.io/badge/Telegram-Запустить_ChatPeak-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Запустить ChatPeak"></a>
+  <a href="https://t.me/ChatPeak_Bot"><img src="https://img.shields.io/badge/Telegram-Запустить_ChatPeak-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Запустить чатбот"></a>
   &nbsp;
-  <a href="https://t.me/PeakFatherBot"><img src="https://img.shields.io/badge/Telegram-Создать_свою_ферму-2EA043?style=for-the-badge&logo=telegram&logoColor=white" alt="Создать бота на ферме"></a>
+  <a href="https://t.me/PeakFatherBot"><img src="https://img.shields.io/badge/Telegram-Создать_свою_ферму-2EA043?style=for-the-badge&logo=telegram&logoColor=white" alt="Создать своего бота из конструктора"></a>
 </p>
 
 ---
