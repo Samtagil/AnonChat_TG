@@ -10,8 +10,10 @@
   <a href="https://t.me/PeakFatherBot"><img src="https://img.shields.io/badge/Telegram-Create_your_bot-2EA043?style=for-the-badge&logo=telegram&logoColor=white" alt="Create bot on the farm"></a>
 </p>
 
-<p align="center">
-  <strong><a href="#русский">Русский</a></strong> · <strong><a href="#english">English</a></strong>
+<p align="center" style="font-size: 1.75em; line-height: 2.2; margin: 1.25em 0;">
+  <a href="#русский" title="Русская версия">🇷🇺&nbsp;<strong>Русский</strong></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#english" title="English version">🇬🇧&nbsp;<strong>English</strong></a>
 </p>
 
 ---
